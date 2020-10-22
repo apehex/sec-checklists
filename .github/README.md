@@ -2,17 +2,20 @@
 
 > :memo: Streamline your workflows around cybersecurity!
 
-Keep track of your *actual* progress securing / attacking assets. This project aims at abstracting the tooling & methodology to focus on coverage: what items have been found / tested, against what risk?
+Keep track of your *actual* progress securing / attacking assets.
+This project aims at abstracting the tooling & methodology to focus on coverage:
+what items have been found / tested, against what risk?
 
 
 * Free software: MIT
 * Documentation: https://SecChecklists.readthedocs.io.
 
+## Status
+
+[![Development Status][planning-status-shield]](ROADMAP.md)
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [Status](#status)
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
@@ -23,15 +26,6 @@ Keep track of your *actual* progress securing / attacking assets. This project a
   - [Community](#community)
 - [Credits](#credits)
 - [License](#license)
-
-## Status
-
-[![Development Status][planning-status-shield]](ROADMAP.md)
-[![Tagged Release][release-shield]](CHANGELOG.md)
-[![Build Coverage][coverage-shield]][coverage-link]
-
-[![Build Status][travis-shield]][travis-link]
-[![Build Status][appveyor-shield]][appveyor-link]
 
 ## Features
 
