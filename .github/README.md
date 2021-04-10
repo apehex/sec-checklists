@@ -3,7 +3,7 @@
 > :memo: Streamline your workflows around cybersecurity!
 
 Keep track of your *actual* progress securing / attacking assets.
-This project aims at abstracting the tooling & methodology to focus on coverage:
+This project aims at abstracting the tooling/how to focus on methodology:
 what items have been found / tested, against what risk?
 
 
