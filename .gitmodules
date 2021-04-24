@@ -1,0 +1,3 @@
+[submodule ".submodules/owasp-masvs"]
+	path = .submodules/owasp-masvs
+	url = https://github.com/owasp/owasp-masvs.git
