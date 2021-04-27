@@ -1,0 +1,1 @@
+../../.submodules/hacktricks/windows/checklist-windows-privilege-escalation.md

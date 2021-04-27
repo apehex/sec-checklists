@@ -1,3 +1,6 @@
 [submodule ".submodules/owasp-masvs"]
 	path = .submodules/owasp-masvs
 	url = https://github.com/owasp/owasp-masvs.git
+[submodule ".submodules/hacktricks"]
+	path = .submodules/hacktricks
+	url = https://github.com/carlospolop/hacktricks.git
