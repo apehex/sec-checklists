@@ -1,10 +1,11 @@
-## Attacks
+## Acceptable attacks
 
 ### Social engineering
 
 | Description                                                             | Ok |
 | ----------------------------------------------------------------------- | -- |
 | List acceptable attacks | |
+| List acceptable pretexts for phishing (sex, drugs, etc) | |
 | Target specifically authorized phone numbers / people | |
 | Verify the phones / emails are company owned | |
 | Ask for specific permissions (\*) | |

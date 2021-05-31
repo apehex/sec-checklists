@@ -4,11 +4,13 @@
 
 | Description                                                            | Ok |
 | ---------------------------------------------------------------------- | -- |
-| Share agenda for the meeting & concret objectives | |
+| Sign the non-disclosure agreement first | |
+| Share the agenda for the meeting & concrete objectives | |
 | Explain the legal ramifications for out-of-scope attacks | |
 | Explain the business implications of unwanted attacks | |
-| Everyone understands precise scoping is critical | |
 | List of all the client's assets | |
+| Specify IP ranges and domains | |
+| Are firewalls and IDS/IPS or networking equipment in scope? | |
 | Rank the assets by criticality | |
 | Size according to available workforce too | |
 | Explicitely exclude assets that won't be tested | |
@@ -27,34 +29,33 @@
 | Description                                                            | Ok |
 | ---------------------------------------------------------------------- | -- |
 | Sign the non-disclosure agreement first | |
-| Verify legal limitations in the area | |
+| Validate that the targets are in fact owned by the customer | |
+| Review the laws of the hosting countries before testing | |
 | Be specific: dates, staff, scope, attacks | |
 | Check third party contracts for conflicts | |
 | Check the dates of the permission to test | |
-| Check the authority of the approver on the assets in scope (owner) | |
 | Check whether the actual testers are approved | |
 | Seek approval from superiors and document it | |
 | No operations until the scope is entirely defined, with proof of approval | |
 
-## Creep
+## Scope creep
 
 | Description                                                            | Ok |
 | ---------------------------------------------------------------------- | -- |
+| Set a start date | |
+| Set an end date | |
+| Specify a timeframe for retesting, after the final report delivery | |
 | Additional work should be performed after completion | |
-| List excluded work: retesting, additional tests | |
-
-## Internal
-
-| Description                                                            | Ok |
-| ---------------------------------------------------------------------- | -- |
-| Check who has authority on the assets | |
-| Document & get explicit approval, just like an external audit | |
+| Explicitely list excluded work, if any: retesting, additional tests | |
+| State that a SOW must be signed before any additional work | |
+| Keep prices lower for existing customers | |
 
 ## Third parties
 
 | Description                                                            | Ok |
 | ---------------------------------------------------------------------- | -- |
 | Establish a communication channel | |
-| Give advance notice: time period, specific target, attacks | |
 | Get specific, signed permission | |
+| Ask: cloud providers, ISPs, MSSPs | |
+| Give advance notice: time period, specific target, attacks | |
 | Always question permissions / ownership | |

@@ -2,8 +2,8 @@
 
 | Description                                                             | Ok |
 | ----------------------------------------------------------------------- | -- |
-| Detail the completion terms: concret and verifiable conditions | |
-| Define when the payment is due | |
+| Detail the completion terms: concrete and verifiable conditions | |
+| Define when the payment is due (half upfront, net-30, recurring, etc) | |
 | Write explicitly the discount, if any | |
 | Detail the work / volume that justify the price | |
 | Specify how / what expanses are accounted for | |

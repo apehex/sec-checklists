@@ -17,29 +17,30 @@
 | Title and operational responsibility | |
 | Authorization to discuss details of the testing activities | |
 | Two forms of 24/7 immediate contact | |
-| One form of secure communication and data transfer | |
+| One form of secure bulk data transfer | |
 
 ## Parties involved
 
 | Description                                                             | Ok |
 | ----------------------------------------------------------------------- | -- |
-| All testers | |
+| All penetration testers | |
 | The managers of the test group | |
-| Two technical staff from the customer | |
-| One upper management of business contact from the customer | |
+| Two technical contacts at each target organization | |
+| Two technical contacts at the customer | |
+| One upper management or business contact at the customer | |
 
 ## Incident reporting
 
 | Description                                                             | Ok |
 | ----------------------------------------------------------------------- | -- |
-| Notify the security team of the upcoming activities | |
 | Discuss the modalities of incident reporting | |
+| Notify the security team of the upcoming activities | |
 
-## Status reports
+## Encryption
 
 | Description                                                             | Ok |
 | ----------------------------------------------------------------------- | -- |
-| Agree on a status reporting frequency | |
-| Notify when the planning changes | |
-| Report on progress | |
-| Report the problems encountered | |
+| A means of secure communication is established with the client | |
+| Data is encrypted before sharing (PGP) | |
+| Ask what information must be put in writing | |
+| Ask what information should be communicated only verbally | |
