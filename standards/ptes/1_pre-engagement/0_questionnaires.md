@@ -52,6 +52,8 @@
 
 ## Physical penetration testing
 
+| Description                                                            | Ok |
+| ---------------------------------------------------------------------- | -- |
 | How many locations are being assessed? | |
 | Is this physical location a shared facility? If so: | |
 | &rarr; How many floors are in scope? | |
